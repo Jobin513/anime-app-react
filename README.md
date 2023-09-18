@@ -13,8 +13,6 @@ Anime Voice Finder is a web application that allows users to search for their fa
 Anime Voice Finder is designed to help anime fans identify anime characters by matching them to the voice actor they are hearing. 
 This tool assists users in finding characters by comparing voice actor information to the list of characters that particular voice actor has portrayed."
 
-
-ed.
 ### Prerequisites
 
 Before you can run Anime Voice Finder locally, make sure you have the following prerequisites installed:
