@@ -1,0 +1,10 @@
+.home-container {
+  text-align: 'center';
+  background-Color: 'rgba(255, 255, 255, 0.95)';
+  padding: '20px';
+  border-Radius: '8px';
+  box-Shadow: '0 0 10px rgba(0, 0, 0, 0.2)';
+  margin-Bottom: '20px';
+}
+
+
