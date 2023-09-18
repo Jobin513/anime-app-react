@@ -14,7 +14,7 @@ function App() {
   };
 
   return (
-    <Router>
+    <Router basename="/anime-app-react">
       <Routes>
         <Route path="/" element={<Home onSearch={handleSearch} />} />
         <Route path="/characterlist" element={<CharacterList characterName={characterName} />} />
